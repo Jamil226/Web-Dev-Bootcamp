@@ -22,77 +22,61 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
 
+# Web Development Bootcamp
 
-# Web Application Development Course
+This repository contains a comprehensive set of laboratory exercises and projects developed during the Web Development Bootcamp. The curriculum covers a full-stack journey, starting from static web pages with HTML and CSS to dynamic applications using PHP, MySQL, Microservices, and the Laravel 11 framework.
 
-In this repository you can find the following course modules:
+## Repository Structure
 
-## HTML5 
+### HTML & CSS Foundations
+* **Lab 01:** HTML Basics (Structure, Text Formatting, Lists)
+* **Lab 02:** HTML Advanced (Links, Images, Tables, Forms)
+* **Lab 03:** CSS Basics (Selectors, Colors, Typography)
+* **Lab 04:** CSS Intermediate (Box Model, Positioning, Display)
+* **Lab 05:** CSS Advanced - 1 (Flexbox and Layouts)
+* **Lab 06:** CSS Advanced - 2 (Grid and Responsive Design)
 
-* HTML Basics (Lab 01)
-* HTML Advanced (Lab 02)
+### Advanced Styling & Frameworks
+* **Lab 07 - 09:** SaaS (Basics, Intermediate, and Advanced SCSS workflows)
+* **Lab 10:** Bootstrap Basics (Grid System, Components)
+* **Lab 11:** Bootstrap Advanced (Customization, Responsive Utilities)
 
+### JavaScript
+* **Lab 12:** JS Basics (Variables, Functions, Loops)
+* **Lab 13:** JS Advanced (DOM Manipulation, Events, ES6+ Features)
 
-## CSS3
-* CSS Basics (Lab 03)
-* CSS Intermediate (Lab 04)
-* CSS Advanced (Lab 05 & Lab 06)
+### Dynamic Web Development (PHP & Themes)
+* **Lab 15:** Theme Customization
+* **Lab 16:** Making Dynamic Header Footers using PHP 8
+* **Lab 17:** PHP Basics
+* **Lab 18:** PHP & MySQL Database Connection
+* **Lab 19:** Secure Login with Sessions using PHP 8 & MySQL
+* **Lab 20 - 22:** CRUD Operations (Part I, II, and III)
 
+### Microservices
+* **Lab 23:** Microservices Architecture
+    * Synchronous API Calls using REST Endpoints
+    * JSON Encoding/Decoding
+    * Postman Collections for API Testing
+    * Fetching Server Responses in JSON
+    * Sending Data using POST/PUT Methods
 
-## Sass: Syntactically Awesome Style Sheets
-* Saas Basics (Lab 07)
-* Saas Intermediate (Lab 08)
-* Saas Advanced (Lab 09)
+### Modern Frameworks (Laravel 11)
+* **Lab 24 - 31:** Laravel 11 Development
+    * Routing and Controllers
+    * Blade Templating Engine
+    * Eloquent ORM & Migrations
+    * Middleware and Authentication
+    * Advanced Full-stack Implementations
 
-
-## Bootstrap 5
-* BS5 Basics (Lab 10)
-* Saas Advanced (Lab 11)
-
-
-## Javascript
-* JS Basics (Lab 12)
-* JS Advanced (Lab 13)
-
-## JQuery & AJAX (Lab 14)
-* XML
-* AJAX
-* JQuery
-
-## Responsive Themes
-* Theme Customisation (Lab 15)
-* Making Dynamic Header Footers using PHP8 (Lab 16)
-
-
-## PHP 8 & MySQL
-* PHP Basics (Lab 17)
-* PHP & MySQL Database Connection(Lab 18)
-* Secure Login with Sessions using PHP8 & MySQL (Lab 19)
-* CRUD Operations Part I (Lab 20)
-* CRUD Operations Part II (Lab 21)
-* CRUD Operations Part II (Lab 22)
-
-## Microservices (Lab 23)
-* Synchronous API Call using REST Endpoints
-* JSON Encoding/Decoding
-* Postman Collections
-* Fetch Server Response against Http in JSON
-* Sending Data using POST/PUT Methods
-
-## Laravel 11 
-* Laravel Part I (Lab 24)
-* Laravel Part II (Lab 25)
-* Laravel Part III (Lab 26)
-* Laravel Part IV (Lab 27)
-* Laravel Part V (Lab 28)
-* Laravel Part VI (Lab 29)
-* Laravel Part VII (Lab 30)
-* Laravel Part VIII (Lab 31)
+## Tech Stack
+* **Frontend:** HTML5, CSS3, SCSS, JavaScript, Bootstrap
+* **Backend:** PHP 8, Laravel 11
+* **Database:** MySQL
+* **Tools:** Postman, Git/GitHub, VS Code
 
 ## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
 
 Please make sure to update tests as appropriate.
 
